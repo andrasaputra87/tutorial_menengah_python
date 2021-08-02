@@ -4,4 +4,5 @@ from volume.kubik import volume_kubik
 import volume.bola
 from volume.trapesium import *
 
-# panggil fungsi masing-masing  
+# panggil fungsi masing-masing yg ingin di lakukan dari modul tadi  
+
